@@ -52,7 +52,8 @@ REST API testing is testing API using 4 major methods.
 3.	PUT and 
 4.	DELETE.
 
-
+To Download the material to your Local System
+CLick on Code -> Download ZIP
 
 
 #CucumberFramework #BDD #AgileTesting #TestAutomation #SoftwareQuality #Collaboration #TestingCommunity #SoftwareDevelopment #TechInnovation
